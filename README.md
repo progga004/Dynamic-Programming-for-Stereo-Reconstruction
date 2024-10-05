@@ -1,4 +1,5 @@
 ### Instructions to run the program:
+- Navigate to the directory and run this command.
 ```bash
 python final.py
 ```
